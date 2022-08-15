@@ -14,7 +14,7 @@ Seccion 3
 
 # Hallazgos de temas
 
-[![Conclusiones-basadas-en-temas.png](https://i.postimg.cc/Ss1rvqzk/Conclusiones-basadas-en-temas.png)](https://postimg.cc/nj7BXykP)
+[![halazgodetemas.png](https://i.postimg.cc/J4rXBSyQ/halazgodetemas.png)](https://postimg.cc/NLnF3Jky)
 
 # Conclusiones basadas en temas
 
