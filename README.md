@@ -11,3 +11,11 @@ Seccion 2
 Seccion 3
 
 [![3.png](https://i.postimg.cc/HWtkGxSp/3.png)](https://postimg.cc/14fQw9hT)
+
+# Hallazgos de temas
+
+[![Conclusiones-basadas-en-temas.png](https://i.postimg.cc/Ss1rvqzk/Conclusiones-basadas-en-temas.png)](https://postimg.cc/nj7BXykP)
+
+# Conclusiones basadas en temas
+
+[![Conclusiones-basadas-en-temas.png](https://i.postimg.cc/Ss1rvqzk/Conclusiones-basadas-en-temas.png)](https://postimg.cc/nj7BXykP)
